@@ -3,3 +3,9 @@ This project is a DALL·E clone. It uses the MERN stack with cloudinary and tail
 
 # Generating an image
 ![image](https://user-images.githubusercontent.com/45319805/223137219-74aedd55-4b1e-41b3-be79-fe3a374658db.png)
+The "Your name" input field allows you to input an author name that will be linked to your image.
+The "Prompt" input field allows you to enter the prompt that you would like to generate an image for.
+There is also a "Surprise Me" button that allows you to generate a random prompt.
+Below this there is an image field that will show your image when it has finished generating using the DALL·E API.
+Underneath this there is a "Generate" button that you can use to generate the image.
+Finally there is a "Share with the community" button that you can use to post the author, prompt and image to the necessary databases for use on the showcase screen.
