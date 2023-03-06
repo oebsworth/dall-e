@@ -3,7 +3,7 @@ This project is a DALL·E clone. It uses the MERN stack with cloudinary and tail
 
 # Generating an image
 ![image](https://user-images.githubusercontent.com/45319805/223137219-74aedd55-4b1e-41b3-be79-fe3a374658db.png)
-### 'Your name'
+# 'Your name'
 The "Your name" input field allows you to input an author name that will be linked to your image.
 ### 'Prompt'
 The "Prompt" input field allows you to enter the prompt that you would like to generate an image for.
