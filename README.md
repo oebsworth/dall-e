@@ -8,6 +8,7 @@ Next you can see the showcase grid where all of the images stored in the memory 
 Finally at the top right you can see the "Create" button which will take you to the other page.
 
 ![image](https://user-images.githubusercontent.com/45319805/223142655-e90cf81b-7c88-4a17-9150-a9753afc0e34.png)
+
 This image shows the prompt, author and download button. 
 This shows up when you hover over the image.
 The download button will download the image in the .jpg format.
