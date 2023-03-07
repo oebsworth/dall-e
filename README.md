@@ -1,5 +1,5 @@
 # Introduction
-This project is a DALL·E clone. It uses the MERN stack with Cloudinary and Tailwind css. I have used the DALL·E API to fetch and generate images to be saved to cloudinary with the prompt and author being saved to mongoDB. You can then view the images stored in cloudinary with the information for that post and if you want to you can download the images from the showcase screen. The showcase screen also has a search function that you can use to find images using the prompt or author name.
+This project is a DALL·E clone that was made using the MERN stack with Cloudinary and Tailwind css. I have used the DALL·E API to fetch and generate images to be saved to cloudinary with the prompt and author being saved to mongoDB. You can then view the images stored in cloudinary with the information for that post and if you want to you can download the images from the showcase screen. The showcase screen also has a search function that you can use to find images using the prompt or author name.
 
 # Showcase Page
 ![image](https://user-images.githubusercontent.com/45319805/223141085-9d143abb-3ad2-4d3d-81ab-01aa4408dea5.png)
